@@ -7,8 +7,11 @@ these items, and offers discounts on these purchases.
 In the ProductOrder database, there are mainly four categories of information:
 
 ● Product information
+
 ● Inventory information
+
 ● User information
+
 ● Order information
 
 Objective:
