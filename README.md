@@ -24,9 +24,9 @@ Files Provided:
 The resources that have been shared with you as part of the zipped JSON docs
 folder, there are 4 main files.
 
-Product_info.json, 
-Inventory_info.json, 
-User_info.json and 
-Order_info.json
+* Product_info.json, 
+* Inventory_info.json, 
+* User_info.json and 
+* Order_info.json
 
 The JSON files that contain the information to be inserted into the database.
